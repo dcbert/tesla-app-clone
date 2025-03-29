@@ -21,7 +21,7 @@ This is a **Tesla App Clone** built with **React Native**, **Redux**, and **Expo
 ## 🚀 Getting Started
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/tesla-clone.git
+git clone https://github.com/dcbert/tesla-app-clone.git
 cd tesla-clone
 ```
 
